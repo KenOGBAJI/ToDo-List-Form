@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ToDo-List-Form/static/css/main.3fd55405.css",
+    "main.js": "/ToDo-List-Form/static/js/main.b9506cd3.js",
+    "index.html": "/ToDo-List-Form/index.html",
+    "main.3fd55405.css.map": "/ToDo-List-Form/static/css/main.3fd55405.css.map",
+    "main.b9506cd3.js.map": "/ToDo-List-Form/static/js/main.b9506cd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fd55405.css",
+    "static/js/main.b9506cd3.js"
+  ]
+}
